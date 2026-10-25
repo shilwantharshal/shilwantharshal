@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&width=720&lines=Harshal+Shilwant;LLM+Apps+%E2%80%A2+RAG+%E2%80%A2+Full-Stack;AI+that+answers+from+real+data." alt="Typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&width=720&lines=Harshal+Shilwant;AI+Engineer+%E2%80%A2+Agentic+AI+%E2%80%A2+RAG;AI+that+answers+from+real+data." alt="Typing headline" />
 
 <br/>
 
-![focus](https://img.shields.io/badge/focus-AI%20%2F%20LLM%20apps-161b22?style=flat-square&labelColor=0d1117)
+![focus](https://img.shields.io/badge/focus-agentic%20AI%20%26%20RAG-161b22?style=flat-square&labelColor=0d1117)
 ![currently](https://img.shields.io/badge/currently-building%20DevForge%20AI-161b22?style=flat-square&labelColor=0d1117)
 ![based in](https://img.shields.io/badge/based%20in-Pune%2C%20India-161b22?style=flat-square&labelColor=0d1117)
 
@@ -20,6 +20,29 @@ I build AI apps that answer from real data and say honestly what they don't know
 - The app must still work when the AI doesn't: fallbacks, timeouts, retries.
 - If it stores user data, isolation and auth come before features.
 - Write down what works and what's still stubbed. Honest docs build trust.
+
+---
+
+## Experience
+
+#### 🏢 Junior Software Developer · Cognitive Market Research and Consulting
+<sub>Apr 2026 – Sep 2026 · Pune</sub>
+
+- Built **agentic AI workflows** with FastAPI + LangGraph for company research, market mapping, lead enrichment and stakeholder intelligence.
+- Designed **async processing** with Redis-backed job queues, so long-running AI jobs run outside the API request with retry, backoff and failure handling.
+- Built a **9-service LangGraph pipeline** for research-report classification and segmentation, with deduplication to skip redundant LLM calls.
+- Designed a **RAG architecture** on pgvector with ingestion quality gates that catch broken PDF extraction before it reaches retrieval.
+
+`LangGraph` · `FastAPI` · `pgvector` · `Redis` · `Gemini` · `Ollama`
+
+#### 🏢 RAG & Data Engineer · TechnoNexis
+<sub>May 2025 – Mar 2026</sub>
+
+- Built a **RAG solution for Kyvo** that retrieves bearing dimensions and technical specs from engineering data.
+- Engineered document pipelines: ingestion, parsing, chunking, embeddings and vector retrieval for unstructured technical documents.
+- Shipped **Mall Assistance AI** (conversational assistant) and **Wealthier AI** (food recognition, nutrition and calorie estimation from images).
+
+`RAG` · `Vector DBs` · `NLP` · `ETL` · `Python APIs`
 
 ---
 
@@ -55,7 +78,14 @@ A fashion-rental marketplace for Pune. Customers rent occasion wear like lehenga
 
 ---
 
-## Tech
+## Skills
+
+| Area | What I work with |
+|---|---|
+| **AI & LLMs** | RAG, Agentic AI, Multi-Agent Systems, LangGraph, LangChain, Prompt Engineering, Structured Outputs, NLP |
+| **System Design** | Microservices, Event-Driven Architecture, Async Processing, Queue-Based Systems, Fault Tolerance, Retry/Backoff |
+| **Data & Retrieval** | Vector Search, Hybrid Search, Embeddings, Document Parsing, ETL, SQL |
+| **Backend** | REST APIs, WebSockets, Webhooks, JWT/RBAC |
 
 <div align="center">
 
@@ -69,7 +99,9 @@ A fashion-rental marketplace for Pune. Customers rent occasion wear like lehenga
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-0d1117?style=flat-square&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=8E75B2)
 ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logo=qdrant&logoColor=DC244C)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
@@ -77,9 +109,12 @@ A fashion-rental marketplace for Pune. Customers rent occasion wear like lehenga
 **Backend & Data**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![pgvector](https://img.shields.io/badge/pgvector-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=FF4438)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3FCF8E)
@@ -92,6 +127,9 @@ A fashion-rental marketplace for Pune. Customers rent occasion wear like lehenga
 
 **DevOps & Cloud**
 
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
@@ -125,9 +163,17 @@ If one user can see another's data, nothing else matters.
 | **DevForge AI** | AI workspace: role roadmaps, scored assessments, progress tracking | FastAPI · React · PostgreSQL · Redis |
 | **ChatSage AI** | RAG over WhatsApp chat history with cited answers | FastAPI · Qdrant · Ollama · React |
 | **Clozet** | Occasion-wear rental marketplace for Pune | FastAPI · Next.js · PostgreSQL |
+| [**XLyzer**](https://github.com/shilwantharshal/XLyzer) | Excel analytics with live dashboards and RBAC | Node.js · React · MongoDB |
 | [**BoltPe**](https://github.com/shilwantharshal/boltpe) | Self-hosted 0% fee UPI payment gateway | Node.js · TypeScript · SQLite |
 
 *More in the repos.*
+
+---
+
+## Education & Leadership
+
+- 🎓 **B.Tech, Electrical and Computer Engineering** · Bharati Vidyapeeth College of Engineering, Pune · *2022–2026* · CGPA 8.08
+- 💡 **Ideation Head**, Institution's Innovation Council · led a 150-member team running hackathons and AI workshops
 
 ---
 
@@ -147,9 +193,9 @@ habit: README and tests before calling it done
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR-EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/shilwantharshal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shilwantharshal/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:harshalshilwantwork@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=render&logoColor=46E3B7)](https://harshalshilwant.onrender.com)
 
 <br/>
 
